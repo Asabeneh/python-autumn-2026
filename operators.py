@@ -13,3 +13,11 @@ print(9 // 4)
 print(9 // 3)
 print(7 // 6)
 print(3 // 4)
+
+'''
+Operators:
+- Assignment: =
+- Arithmetic: +, -, *, /, %, //, **
+- Comparison: >, >=, <, <=, !=
+- Logical Operators: or, and, not
+'''
