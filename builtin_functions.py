@@ -1,6 +1,7 @@
 '''
 print() done
 type() done
+len()
 min() done
 max() done
 sum() done
@@ -59,3 +60,5 @@ evens = list(range(0, 101, 2))
 odds = list(range(1, 101, 2))
 print(evens)
 print(odds)
+print(len('cat'))
+print(len('Finland'))
