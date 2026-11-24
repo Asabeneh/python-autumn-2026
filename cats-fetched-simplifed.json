@@ -1,0 +1,404 @@
+[
+    {
+        "name": "Abyssinian",
+        "country": "Egypt",
+        "weight": 4.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Aegean",
+        "country": "Greece",
+        "weight": 4.0,
+        "life_span": 10.5
+    },
+    {
+        "name": "American Bobtail",
+        "country": "United States",
+        "weight": 5.0,
+        "life_span": 13.0
+    },
+    {
+        "name": "American Curl",
+        "country": "United States",
+        "weight": 3.5,
+        "life_span": 14.0
+    },
+    {
+        "name": "American Shorthair",
+        "country": "United States",
+        "weight": 5.5,
+        "life_span": 16.0
+    },
+    {
+        "name": "American Wirehair",
+        "country": "United States",
+        "weight": 5.5,
+        "life_span": 16.0
+    },
+    {
+        "name": "Arabian Mau",
+        "country": "United Arab Emirates",
+        "weight": 5.5,
+        "life_span": 13.0
+    },
+    {
+        "name": "Australian Mist",
+        "country": "Australia",
+        "weight": 5.0,
+        "life_span": 14.0
+    },
+    {
+        "name": "Balinese",
+        "country": "United States",
+        "weight": 3.5,
+        "life_span": 12.5
+    },
+    {
+        "name": "Bambino",
+        "country": "United States",
+        "weight": 3.0,
+        "life_span": 13.0
+    },
+    {
+        "name": "Bengal",
+        "country": "United States",
+        "weight": 5.0,
+        "life_span": 13.5
+    },
+    {
+        "name": "Birman",
+        "country": "France",
+        "weight": 5.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Bombay",
+        "country": "United States",
+        "weight": 4.0,
+        "life_span": 14.0
+    },
+    {
+        "name": "British Longhair",
+        "country": "United Kingdom",
+        "weight": 6.0,
+        "life_span": 13.0
+    },
+    {
+        "name": "British Shorthair",
+        "country": "United Kingdom",
+        "weight": 7.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Burmese",
+        "country": "Burma",
+        "weight": 4.0,
+        "life_span": 15.5
+    },
+    {
+        "name": "Burmilla",
+        "country": "United Kingdom",
+        "weight": 4.5,
+        "life_span": 12.5
+    },
+    {
+        "name": "California Spangled",
+        "country": "United States",
+        "weight": 6.0,
+        "life_span": 12.0
+    },
+    {
+        "name": "Chantilly-Tiffany",
+        "country": "United States",
+        "weight": 4.0,
+        "life_span": 15.0
+    },
+    {
+        "name": "Chartreux",
+        "country": "France",
+        "weight": 5.0,
+        "life_span": 13.5
+    },
+    {
+        "name": "Chausie",
+        "country": "Egypt",
+        "weight": 5.0,
+        "life_span": 13.0
+    },
+    {
+        "name": "Cheetoh",
+        "country": "United States",
+        "weight": 5.5,
+        "life_span": 13.0
+    },
+    {
+        "name": "Colorpoint Shorthair",
+        "country": "United States",
+        "weight": 3.5,
+        "life_span": 14.0
+    },
+    {
+        "name": "Cornish Rex",
+        "country": "United Kingdom",
+        "weight": 3.0,
+        "life_span": 12.5
+    },
+    {
+        "name": "Cymric",
+        "country": "Canada",
+        "weight": 5.0,
+        "life_span": 11.0
+    },
+    {
+        "name": "Cyprus",
+        "country": "Cyprus",
+        "weight": 5.5,
+        "life_span": 13.5
+    },
+    {
+        "name": "Devon Rex",
+        "country": "United Kingdom",
+        "weight": 3.5,
+        "life_span": 12.5
+    },
+    {
+        "name": "Donskoy",
+        "country": "Russia",
+        "weight": 5.5,
+        "life_span": 13.5
+    },
+    {
+        "name": "Dragon Li",
+        "country": "China",
+        "weight": 5.0,
+        "life_span": 13.5
+    },
+    {
+        "name": "Egyptian Mau",
+        "country": "Egypt",
+        "weight": 4.5,
+        "life_span": 19.0
+    },
+    {
+        "name": "European Burmese",
+        "country": "Burma",
+        "weight": 4.5,
+        "life_span": 12.5
+    },
+    {
+        "name": "Exotic Shorthair",
+        "country": "United States",
+        "weight": 4.5,
+        "life_span": 13.5
+    },
+    {
+        "name": "Havana Brown",
+        "country": "United Kingdom",
+        "weight": 4.0,
+        "life_span": 12.5
+    },
+    {
+        "name": "Himalayan",
+        "country": "United States",
+        "weight": 4.5,
+        "life_span": 12.0
+    },
+    {
+        "name": "Japanese Bobtail",
+        "country": "Japan",
+        "weight": 3.5,
+        "life_span": 15.0
+    },
+    {
+        "name": "Javanese",
+        "country": "United States",
+        "weight": 3.5,
+        "life_span": 11.0
+    },
+    {
+        "name": "Khao Manee",
+        "country": "Thailand",
+        "weight": 5.0,
+        "life_span": 11.0
+    },
+    {
+        "name": "Korat",
+        "country": "Thailand",
+        "weight": 4.0,
+        "life_span": 12.5
+    },
+    {
+        "name": "Kurilian",
+        "country": "Russia",
+        "weight": 5.5,
+        "life_span": 17.5
+    },
+    {
+        "name": "LaPerm",
+        "country": "Thailand",
+        "weight": 4.0,
+        "life_span": 12.5
+    },
+    {
+        "name": "Maine Coon",
+        "country": "United States",
+        "weight": 6.5,
+        "life_span": 13.5
+    },
+    {
+        "name": "Malayan",
+        "country": "United Kingdom",
+        "weight": 4.5,
+        "life_span": 15.0
+    },
+    {
+        "name": "Manx",
+        "country": "Isle of Man",
+        "weight": 4.5,
+        "life_span": 13.0
+    },
+    {
+        "name": "Munchkin",
+        "country": "United States",
+        "weight": 3.0,
+        "life_span": 12.5
+    },
+    {
+        "name": "Nebelung",
+        "country": "United States",
+        "weight": 4.0,
+        "life_span": 13.5
+    },
+    {
+        "name": "Norwegian Forest Cat",
+        "country": "Norway",
+        "weight": 5.5,
+        "life_span": 14.0
+    },
+    {
+        "name": "Ocicat",
+        "country": "United States",
+        "weight": 5.0,
+        "life_span": 13.0
+    },
+    {
+        "name": "Oriental",
+        "country": "United States",
+        "weight": 3.5,
+        "life_span": 13.0
+    },
+    {
+        "name": "Persian",
+        "country": "Iran (Persia)",
+        "weight": 5.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Pixie-bob",
+        "country": "United States",
+        "weight": 6.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Ragamuffin",
+        "country": "United States",
+        "weight": 6.5,
+        "life_span": 14.0
+    },
+    {
+        "name": "Ragdoll",
+        "country": "United States",
+        "weight": 7.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Russian Blue",
+        "country": "Russia",
+        "weight": 3.5,
+        "life_span": 13.0
+    },
+    {
+        "name": "Savannah",
+        "country": "United States",
+        "weight": 7.5,
+        "life_span": 18.5
+    },
+    {
+        "name": "Scottish Fold",
+        "country": "United Kingdom",
+        "weight": 3.5,
+        "life_span": 12.5
+    },
+    {
+        "name": "Selkirk Rex",
+        "country": "United States",
+        "weight": 5.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "Siamese",
+        "country": "Thailand",
+        "weight": 5.5,
+        "life_span": 13.5
+    },
+    {
+        "name": "Siberian",
+        "country": "Russia",
+        "weight": 5.5,
+        "life_span": 13.5
+    },
+    {
+        "name": "Singapura",
+        "country": "Singapore",
+        "weight": 3.0,
+        "life_span": 13.5
+    },
+    {
+        "name": "Snowshoe",
+        "country": "United States",
+        "weight": 4.0,
+        "life_span": 16.5
+    },
+    {
+        "name": "Somali",
+        "country": "Somalia",
+        "weight": 4.0,
+        "life_span": 14.0
+    },
+    {
+        "name": "Sphynx",
+        "country": "Canada",
+        "weight": 4.0,
+        "life_span": 13.0
+    },
+    {
+        "name": "Tonkinese",
+        "country": "Canada",
+        "weight": 4.0,
+        "life_span": 15.0
+    },
+    {
+        "name": "Toyger",
+        "country": "United States",
+        "weight": 5.0,
+        "life_span": 13.5
+    },
+    {
+        "name": "Turkish Angora",
+        "country": "Turkey",
+        "weight": 3.5,
+        "life_span": 16.5
+    },
+    {
+        "name": "Turkish Van",
+        "country": "Turkey",
+        "weight": 6.0,
+        "life_span": 14.5
+    },
+    {
+        "name": "York Chocolate",
+        "country": "United States",
+        "weight": 6.5,
+        "life_span": 14.0
+    }
+]
